@@ -1,0 +1,6 @@
+2021-08-10 12:47:32.8351|DEBUG|nlogsession.NLogC|Debug Successful  : sum()
+2021-08-10 12:47:32.9072|ERROR|nlogsession.NLogC|Expecting null values 
+2021-08-10 12:47:32.9072|ERROR|nlogsession.NLogC|Expecting null values 
+2021-08-10 12:47:32.9151|WARN|nlogsession.NLogC|a or b should not equal to 0
+2021-08-10 12:47:32.9151|WARN|nlogsession.NLogC|a or b should not equal to 0
+2021-08-10 12:47:32.9151|DEBUG|nlogsession.NLogC|debug Succesful
